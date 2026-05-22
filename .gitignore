@@ -1,4 +1,7 @@
-node_modules/
-.idea/
+node_modules
+.idea
 .env
-dist/
+dist
+.cursor
+.agent
+Design_Patterns_Nodejs_Testing
